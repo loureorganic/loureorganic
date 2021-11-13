@@ -11,7 +11,7 @@
   ##
   
 <div style="display: inline_block">
-  <h3>Tecnologias</h3>
+  <h3>Stack</h3>
   <img align="center" alt="Taila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Taila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Taila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">

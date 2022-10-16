@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="https://github.com/loureorganic/loureorganic/blob/master/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+</div>
+
 ## Olá! eu sou a Taila Santos, Desenvolvedora de Software!
 ##### 📍 Estudante de Tecnologia 
 ##### 📍 Apaixonada por programação & design

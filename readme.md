@@ -5,9 +5,6 @@
 </div>
 
 ## Olá! eu sou a Taila Santos, Desenvolvedora de Software!
-##### 📍 Estudante de Tecnologia 
-##### 📍 Apaixonada por programação & design
-##### 📍 Pronomes: ela/dela
 
 <div align="flex-end">
   <a href="https://github.com/loureorganic">
